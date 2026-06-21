@@ -1,0 +1,5 @@
+[build]
+  command = "npm run build"
+
+# Runtime-ul Next.js de pe Netlify (@netlify/plugin-nextjs) e instalat automat
+# și gestionează singur output-ul, rutele API și optimizarea imaginilor.
